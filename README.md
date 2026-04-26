@@ -1,2 +1,2 @@
 # estatein
-Estatein Website Demo for Growmodo
+Estatein Website Demo for Growmodo - THEME ONLY
